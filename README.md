@@ -2,6 +2,6 @@
 - 📛 My full name: Nguyễn Hoàng Nhân
 - 🗓️ I was born in: 2003
 - 🌏 I come from: Viet Nam
-- 👀 I’m interested in design and front-end developer
+- 👀 I’m interested in design and front-end development
 - 🌱 I’m currently learning Digital Art & Design
 - ✨ Contact me: workwith.hnhan@gmail.com
