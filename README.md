@@ -7,9 +7,9 @@ Graphic designer
 I am a student majoring in Graphic Design with 2+ years of experience. I’m currently learning Digital Art & Design but I’m interested in both design and front-end development
 
 * 🌍  I'm based in Ho Chi Minh city. Viet Nam
-* 🖥️  See my portfolio at [My Website](http://hoangnhanne.id.vn/)
+* 🖥️  See my portfolio at [My Website](https://hoangnhanne.id.vn/)
 * ✉️  You can contact me at [workwith.hnhan@gmail.com](mailto:workwith.hnhan@gmail.com)
-* 🚀  I'm currently working on [Amazing Tech Co.](http://amazingtech.vn/)
+* 🚀  I'm currently working on [Amazing Tech Co.](https://amazingtech.vn/) and [Cocsaigon Communication Club](https://www.facebook.com/cocsaigonfuhcm)
 * 🧠  I'm learning front-end development
 * 🤝  I'm open to collaborating on cool website project
 
