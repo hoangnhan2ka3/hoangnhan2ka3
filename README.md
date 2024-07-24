@@ -9,7 +9,7 @@ I am a student majoring in Graphic Design with 2+ years of experience. I’m cur
 * 🌍  I'm based in Ho Chi Minh city. Viet Nam
 * 🖥️  See my portfolio at [My Website](https://hoangnhanne.id.vn/)
 * ✉️  You can contact me at [workwith.hnhan@gmail.com](mailto:workwith.hnhan@gmail.com)
-* 🚀  I'm currently working at [Amazing Tech Co.](https://amazingtech.vn/) and [Cocsaigon Communication Club](https://www.facebook.com/cocsaigonfuhcm)
+* 🚀  I'm currently working at [Cocsaigon Communication Club](https://www.facebook.com/cocsaigonfuhcm)
 * 🧠  I'm learning front-end development
 * 🤝  I'm open to collaborating on cool website project
 
