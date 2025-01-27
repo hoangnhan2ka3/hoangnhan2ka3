@@ -33,8 +33,8 @@ I am a student majoring in Graphic Design with 2+ years of experience. I’m cur
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/hoangnhan2ka3"><img src="https://github-readme-stats.vercel.app/api?username=hoangnhan2ka3&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="hoangnhan2ka3's GitHub stats" /></a>
+<a href="http://github.com/hoangnhan2ka3"><img src="https://github-readme-stats.vercel.app/api?username=hoangnhan2ka3&show_icons=true&hide=prs,issues,&count_private=true&title_color=EBDB48&text_color=ffffff&icon_color=EBDB48&bg_color=151515&hide_border=true&show_icons=true&border_radius=16&card_width=495" alt="GitHub stats" /></a>
 
-<a href="http://www.github.com/hoangnhan2ka3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangnhan2ka3&stroke=ffffff&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://github.com/hoangnhan2ka3"><img src="https://github-readme-streak-stats.herokuapp.com?user=hoangnhan2ka3&theme=dark&hide_border=true&border_radius=16&fire=EBDB48&ring=EBDB48&currStreakLabel=EBDB48" alt="GitHub Streak" /></a>
 
-<a href="https://github.com/hoangnhan2ka3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangnhan2ka3&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/hoangnhan2ka3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangnhan2ka3&langs_count=10&title_color=EBDB48&text_color=ffffff&icon_color=EBDB48&bg_color=151515&hide_border=true&locale=en&custom_title=Top%20%Languages&card_width=495" alt="Top Languages" /></a>
