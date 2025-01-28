@@ -4,7 +4,7 @@ Hi 👋 My name is Hoàng Nhân
 Creative Designer | UI/UX Designer
 ----------------
 
-I am a student majoring in Graphic Design with 2+ years of experience. I’m currently learning Digital Art & Design but I’m interested in both design and front-end development
+I am a student majoring in Graphic Design with nearly 4 years of experience. I’m currently learning Digital Art & Design but I’m interested in both design and front-end development
 
 * 🌍  I'm based in Ho Chi Minh city. Viet Nam
 * 🖥️  See my portfolio at [My Website](https://hoangnhanne.id.vn/)
