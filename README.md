@@ -31,10 +31,12 @@ I am a student majoring in Graphic Design with 2+ years of experience. I’m cur
 
 ### Badges
 
-<b>My GitHub Stats</b>
+<a href="http://github.com/hoangnhan2ka3"><img src="https://github-readme-streak-stats-eight.vercel.app/?user=hoangnhan2ka3&theme=dark&background=222222&hide_border=true&border_radius=16&fire=EBDB48&ring=EBDB48&currStreakLabel=EBDB48" alt="GitHub Streak" /></a>
 
-<a href="http://github.com/hoangnhan2ka3"><img src="https://github-readme-stats.vercel.app/api?username=hoangnhan2ka3&show_icons=true&hide=prs,issues,&count_private=true&title_color=EBDB48&text_color=ffffff&icon_color=EBDB48&bg_color=151515&hide_border=true&show_icons=true&border_radius=16&card_width=495" alt="GitHub stats" /></a>
+<b>GitHub Profile Stats</b>
 
-<a href="http://github.com/hoangnhan2ka3"><img src="https://github-readme-streak-stats.herokuapp.com?user=hoangnhan2ka3&theme=dark&hide_border=true&border_radius=16&fire=EBDB48&ring=EBDB48&currStreakLabel=EBDB48" alt="GitHub Streak" /></a>
+<a href="http://github.com/hoangnhan2ka3"><img src="https://github-readme-stats.vercel.app/api?username=hoangnhan2ka3&show_icons=true&hide=prs,issues,&count_private=true&title_color=EBDB48&text_color=ffffff&icon_color=EBDB48&bg_color=222222&hide_border=true&show_icons=true&border_radius=16&card_width=495" alt="GitHub stats" height="150px" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/hoangnhan2ka3"><img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangnhan2ka3&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=222222&title_color=EBDB48&icon_color=EBDB48&hide=Jupyter%20Notebook,Roff&border_radius=16" alt="Top Languages" height="150px" /></a>
 
-<a href="https://github.com/hoangnhan2ka3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangnhan2ka3&langs_count=10&title_color=EBDB48&text_color=ffffff&icon_color=EBDB48&bg_color=151515&hide_border=true&locale=en&custom_title=Top%20%Languages&border_radius=16&card_width=495" alt="Top Languages" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangnhan2ka3&bg_color=222222&color=EBDB48&line=EBDB48&point=FFFFFF&hide_border=true&radius=16" alt="Activity Graph" /></a>
